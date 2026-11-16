@@ -11,5 +11,5 @@ export default async function handler(req, res) {
   const cleanKey = key.trim().toUpperCase();
   const isValid = validKeys.includes(cleanKey);
   if (isValid) return res.status(200).json({ valid: true, tier: 'pro', message: 'Welcome to Claude Unity Assistant Pro!' });
-  return res.status(200).json({ valid: false, tier: 'free', message: 'Get Pro at patreon.com/slimjim202520' });
+  return res.status(200).json({ valid: false, tier: 'free', message: 'Get Pro at patreon.com/afterhoursco' });
 }

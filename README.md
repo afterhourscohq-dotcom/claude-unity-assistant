@@ -72,6 +72,10 @@ Download and run `Install.bat` from the [Releases](https://github.com/afterhours
 
 ---
 
+## Pro
+
+Get a Pro license key by joining the **Claude Unity Assistant Pro** tier at [patreon.com/afterhoursco](https://www.patreon.com/afterhoursco). Your key is sent by message within 24 hours.
+
 ## Support
 
 Questions or need something built? Email hq@afterhoursco.dev or visit [afterhoursco.dev](https://afterhoursco.dev).

@@ -14,5 +14,5 @@ export default async function handler(req, res) {
   if (isValid) {
     return res.status(200).json({ valid: true, tier: 'pro', message: 'Welcome to Claude Unity Assistant Pro! 🚀', features: ['unlimited_history','scene_generator','export_logs'] });
   }
-  return res.status(200).json({ valid: false, tier: 'free', message: 'Invalid key. Get Pro at patreon.com/slimjim202520' });
+  return res.status(200).json({ valid: false, tier: 'free', message: 'Invalid key. Get Pro at patreon.com/afterhoursco' });
 }
