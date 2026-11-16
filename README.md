@@ -1,6 +1,8 @@
 # Claude Unity Assistant
 
 > AI-powered error fixing and help, built right into the Unity Editor.
+>
+> Made by [After Hours Co.](https://afterhoursco.dev) · [Watch the 1-minute demo](https://youtu.be/mVl7u45dRg8)
 
 Stuck on a red compile error? One click and Claude fixes it automatically. Ask questions in plain English. Works with standard Unity **and** VRChat world/avatar projects.
 
@@ -27,7 +29,7 @@ Stuck on a red compile error? One click and Claude fixes it automatically. Ask q
 2. Click **+** → **Add package from git URL**
 3. Paste:
 ```
-https://github.com/YOUR_USERNAME/claude-unity-assistant.git#upm
+https://github.com/afterhourscohq-dotcom/claude-unity-assistant.git#main
 ```
 
 ### Option B · Drag and drop
@@ -36,7 +38,7 @@ Download this repo → drag the `Editor` folder into `Assets/Editor/ClaudeAssist
 
 ### Option C · Windows installer
 
-Download and run `Install.bat` from the [Releases](https://github.com/YOUR_USERNAME/claude-unity-assistant/releases) page.
+Download and run `Install.bat` from the [Releases](https://github.com/afterhourscohq-dotcom/claude-unity-assistant/releases) page.
 
 ---
 
@@ -67,6 +69,12 @@ Download and run `Install.bat` from the [Releases](https://github.com/YOUR_USERN
 
 - Unity 2021.3 LTS or newer
 - Anthropic API key (free tier is fine) — [console.anthropic.com](https://console.anthropic.com)
+
+---
+
+## Support
+
+Questions or need something built? Email hq@afterhoursco.dev or visit [afterhoursco.dev](https://afterhoursco.dev).
 
 ---
 

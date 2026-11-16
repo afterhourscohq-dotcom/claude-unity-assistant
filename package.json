@@ -6,8 +6,9 @@
   "unity": "2021.3",
   "unityRelease": "0f1",
   "author": {
-    "name": "Claude AI",
-    "url": "https://github.com/YOUR_USERNAME/claude-unity-assistant"
+    "name": "After Hours Co.",
+    "email": "hq@afterhoursco.dev",
+    "url": "https://afterhoursco.dev"
   },
   "keywords": [
     "ai",
@@ -19,5 +20,6 @@
     "udonsharp",
     "editor"
   ],
-  "dependencies": {}
+  "dependencies": {},
+  "documentationUrl": "https://github.com/afterhourscohq-dotcom/claude-unity-assistant#readme"
 }
